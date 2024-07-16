@@ -1,10 +1,12 @@
 # Hi, I’m @GabrielBelle <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBelle&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
+![GabrielBelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBelle&count_private=true&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielBelle&repo=estudos_front_end&theme=github_dark_dimmed)](https://github.com/GabrielBelle/estudos_front_end)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBelle&layout=compact&theme=github_dark_dimmed)
+
+![GabrielBelle's current streak](https://streak-stats.demolab.com/?user=GabrielBelle&count_private=true&theme=github_dark_dimmed&title_color=00b3ff)
 
 ## **Ability** 
 
