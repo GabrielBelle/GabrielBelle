@@ -8,11 +8,11 @@
 
 ![GabrielBelle's current streak](https://streak-stats.demolab.com/?user=GabrielBelle&count_private=true&theme=github_dark_dimmed&title_color=00b3ff)
 
-## **Ability** 
+## Ability
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,git,github,vscode,&perline=13)](#)
 
-## **Contact**
+## Contact
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielbelle/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/gabriel-belle/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=gabrielbelle80@gmail.com)](mailto:gabrielbelle80@gmail.com)
