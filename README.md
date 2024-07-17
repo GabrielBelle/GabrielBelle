@@ -1,4 +1,4 @@
-# Hi, I’m @GabrielBelle 
+# Hi, I’m @GabrielBelle 🚀
 
 <a href="https://github.com/GabrielBelle">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielBelle&count_private=true&show_icons=true&theme=github_dark_dimmed&rank_icon=github" />
