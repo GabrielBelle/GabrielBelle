@@ -1,10 +1,10 @@
 # Hi, I’m @GabrielBelle 
 
-<a href="https://github.com/GabrielBelle/github-readme-stats">
+<a href="https://github.com/GabrielBelle">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielBelle&count_private=true&show_icons=true&theme=github_dark_dimmed&rank_icon=github" />
 </a>
 
-<a href="https://github.com/GabrielBelle/convoychat">
+<a href="https://github.com/GabrielBelle">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBelle&layout=donut&theme=github_dark_dimmed&card_width=320px" />
 </a>
 
