@@ -12,8 +12,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielBelle&repo=estudos_front_end&theme=github_dark_dimmed)](https://github.com/GabrielBelle/estudos_front_end)
 
-![GabrielBelle's current streak](https://streak-stats.demolab.com/?user=GabrielBelle&count_private=true&theme=github_dark_dimmed)
-
 ## Ability
 
 <p align="left">
